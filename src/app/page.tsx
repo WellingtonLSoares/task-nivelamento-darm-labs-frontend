@@ -10,7 +10,7 @@ export default function Home() {
   ];
 
   return (
-    <main className="min-h-screen p-8 bg-zinc-900 font-san text-gray-100">
+    <main className="min-h-screen p-8 bg-zinc-900 font-sans text-gray-100">
       <div className="max-w-2xl mx-auto space-y-8">
         <header className="flex justify-between items-center">
           <h1 className="text-3xl font-bold">Task de nivelamento</h1>
